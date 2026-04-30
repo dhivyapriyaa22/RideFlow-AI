@@ -82,7 +82,7 @@ Demand → Supply → Pricing → Cancellation → Insights
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/dhivyapriyaa.r22/RideFlow-AI.git
+git clone https://github.com/dhivyapriyaa22/RideFlow-AI.git
 cd RideFlow-AI
 
 python -m venv venv
